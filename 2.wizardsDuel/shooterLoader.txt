@@ -1,0 +1,16 @@
+import {game} from "./sgc/sgc.js";
+
+game.preloadImage("floor.png");
+game.preloadImage("marcusSheet.png", 48, 48);
+game.preloadImage("strangerSheet.png", 48, 48);
+game.preloadImage("marcusSpellSheet.png", 48, 48);
+game.preloadImage("strangerSpellSheet.png", 48, 48);
+game.preloadImage("fireballSheet.png", 48, 48);
+// the following images are from 
+// https://www.pinterest.com/pin/366973069609179144/
+game.preloadImage("star1.png", 48, 48);
+game.preloadImage("LoveDill.png", 48, 48);
+game.preloadImage("eggGreen.png");
+game.preloadImage("zombie.png");
+game.preloadImage("FlowerBlue1.png");
+game.preloadImage("FlowerRed.png");
